@@ -47,17 +47,24 @@ Screenshots of the AWS resources and Lambda execution results are included in th
 
 ## 📸 Screenshots
 
-### RDS Instance
-![RDS](screenshots/rds-instance.png)
+### RDS Connection Success
+![RDS Connection](screenshots/rds-connection-success.png)
 
-### DynamoDB Table
-![DynamoDB](screenshots/dynamodb-table.png)
+### MySQL Query Validation (RDS)
+![MySQL Validation](screenshots/mysql-query-validation.png)
 
-### Lambda Function
-![Lambda](screenshots/lambda-function.png)
+### Lambda Test Response
+![Lambda Test](screenshots/lambda-test-response.png)
 
-### Lambda Test Output
-![Lambda Output](screenshots/lambda-test-output.png)
+### DynamoDB Table Items
+![DynamoDB Items](screenshots/dynamodb-table-items.png)
+
+### RDS Metrics Summary
+![RDS Metrics](screenshots/rds-metrics-summary.png)
+
+### Lambda Code Logic
+![Lambda Code](screenshots/lambda-code-logic.png)
+
 
 
 
