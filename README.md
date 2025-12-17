@@ -69,6 +69,27 @@ Tested Lambda functions using the AWS Management Console
 ## 📸 Screenshots
 Screenshots of the AWS resources and outputs are included in the repository.
 
+### 📸 Screenshots
+
+1. **DynamoDB Table Items**  
+![DynamoDB Table Items](screenshots/dynamodb-table-items.png)
+
+2. **Lambda Function Code Logic**  
+![Lambda Function Code Logic](screenshots/lambda-code-logic.png)
+
+3. **Lambda Test Response**  
+![Lambda Test Response](screenshots/lambda-test-response.png)
+
+4. **MySQL Query Validation**  
+![MySQL Query Validation](screenshots/mysql-query-validation.png)
+
+5. **RDS Connection Success**  
+![RDS Connection Success](screenshots/rds-connection-success.png)
+
+6. **RDS Metrics Summary**  
+![RDS Metrics Summary](screenshots/rds-metrics-summary.png)
+
+
 
 
 
