@@ -45,6 +45,23 @@ Tested Lambda functions using the AWS Management Console
 
 Screenshots of the AWS resources and Lambda execution results are included in the repository for validation and demonstration.
 
+## 📸 Screenshots
+
+### RDS Instance
+![RDS](screenshots/rds-instance.png)
+
+### DynamoDB Table
+![DynamoDB](screenshots/dynamodb-table.png)
+
+### Lambda Function
+![Lambda](screenshots/lambda-function.png)
+
+### Lambda Test Output
+![Lambda Output](screenshots/lambda-test-output.png)
+
+
+
+
 📈 Learning Outcome
 
 Understanding of serverless architecture
