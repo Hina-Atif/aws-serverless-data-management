@@ -13,6 +13,8 @@ AWS Lambda
 
 AWS IAM
 
+
+
 🏗️ Architecture
 
 The system uses AWS Lambda to interact with:
@@ -22,6 +24,8 @@ RDS for structured relational data
 DynamoDB for fast NoSQL operations
 
 This design enables scalable data processing without managing servers.
+
+
 
 ⚙️ Implementation Steps
 
@@ -42,6 +46,14 @@ Interact with both RDS and DynamoDB
 Tested Lambda functions using the AWS Management Console
 
 
+
+
+## 📸 Screenshots
+Screenshots of the AWS resources and outputs are included in the repository.
+
+
+
+
 📈 Learning Outcome
 
 Understanding of serverless architecture
@@ -51,6 +63,9 @@ Hands-on experience with AWS relational and NoSQL databases
 Lambda integration with multiple data sources
 
 IAM role and permission management
+
+
+
 
 🚀 Future Improvements
 
