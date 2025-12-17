@@ -41,33 +41,6 @@ Interact with both RDS and DynamoDB
 
 Tested Lambda functions using the AWS Management Console
 
-📸 Screenshots
-
-Screenshots of the AWS resources and Lambda execution results are included in the repository for validation and demonstration.
-
-## 📸 Screenshots
-
-### RDS Connection Success
-![RDS Connection](screenshots/rds-connection-success.png)
-
-### MySQL Query Validation (RDS)
-![MySQL Validation](screenshots/mysql-query-validation.png)
-
-### Lambda Test Response
-![Lambda Test](screenshots/lambda-test-response.png)
-
-### DynamoDB Table Items
-![DynamoDB Items](screenshots/dynamodb-table-items.png)
-
-### RDS Metrics Summary
-![RDS Metrics](screenshots/rds-metrics-summary.png)
-
-### Lambda Code Logic
-![Lambda Code](screenshots/lambda-code-logic.png)
-
-
-
-
 
 📈 Learning Outcome
 
