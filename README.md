@@ -1,6 +1,6 @@
 # AWS Serverless Data Management Project  
 
-
+**Author: Hina Atif**
 
 
 📌 Project Overview
@@ -20,7 +20,7 @@ AWS IAM
 
 
 
-🏗️ Architecture
+ ## Architecture
 
 The system uses AWS Lambda to interact with:
 
@@ -30,7 +30,7 @@ DynamoDB for fast NoSQL operations
 
 This design enables scalable data processing without managing servers.
 
-## 💡 Why This Project Matters
+##  Why This Project Matters
 
 This project demonstrates how modern cloud applications can:
 - Use serverless compute for scalability
@@ -43,7 +43,7 @@ These patterns are widely used in real-world cloud and DevOps environments.
 
 
 
-⚙️ Implementation Steps
+## Implementation Steps
 
 Created an RDS instance with a managed database engine
 
@@ -66,10 +66,10 @@ Tested Lambda functions using the AWS Management Console
 
 
 
-## 📸 Screenshots
+##  Screenshots
 Screenshots of the AWS resources and outputs are included in the repository.
 
-### 📸 Screenshots
+###  Screenshots
 
 1. **DynamoDB Table Items**  
 ![DynamoDB Table Items](screenshots/dynamodb-table-items.png)
@@ -106,7 +106,7 @@ IAM role and permission management
 
 ---
 
-🚀 Future Improvements
+## Future Improvements
 
 API Gateway integration for RESTful endpoints
 
@@ -114,7 +114,5 @@ Infrastructure as Code (IaC) using Terraform
 
 CI/CD automation for deployment
 
----
 
-**Author: Hina Atif**
 
