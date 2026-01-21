@@ -1,5 +1,5 @@
 # AWS Serverless Data Management Project  
-**Author: Hina Atif**
+
 
 
 
@@ -104,7 +104,7 @@ Lambda integration with multiple data sources
 IAM role and permission management
 
 
-
+---
 
 🚀 Future Improvements
 
@@ -113,3 +113,8 @@ API Gateway integration for RESTful endpoints
 Infrastructure as Code (IaC) using Terraform
 
 CI/CD automation for deployment
+
+---
+
+**Author: Hina Atif**
+
