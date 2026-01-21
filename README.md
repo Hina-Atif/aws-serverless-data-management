@@ -8,7 +8,7 @@
 This project demonstrates a serverless data management architecture using AWS services.
 It integrates relational and NoSQL databases with AWS Lambda for scalable, event-driven data operations.
 
-🛠️ AWS Services Used
+## AWS Services Used
 
 AWS RDS (Relational Database Service)
 
